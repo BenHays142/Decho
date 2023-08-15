@@ -6,4 +6,5 @@ Given this implementation uses Deno, you must install Deno. See https://deno.lan
 
 Then, once Deno is properly installed and available on the command-line, you can start Decho using 
 ```bash 
-deno run ./mod.ts```.
+deno run ./mod.ts
+```.
